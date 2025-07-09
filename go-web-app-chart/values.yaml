@@ -1,7 +1,7 @@
 
 image:
   repository: vivek7013/go-web-app
-  tag: '16159611762'
+  tag: '16159619899'
   pullPolicy: IfNotPresent
 
 service:
